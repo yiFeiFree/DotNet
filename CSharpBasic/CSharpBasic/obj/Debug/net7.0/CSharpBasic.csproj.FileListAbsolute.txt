@@ -1,0 +1,15 @@
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/bin/Debug/net7.0/CSharpBasic
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/bin/Debug/net7.0/CSharpBasic.deps.json
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/bin/Debug/net7.0/CSharpBasic.runtimeconfig.json
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/bin/Debug/net7.0/CSharpBasic.dll
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/bin/Debug/net7.0/CSharpBasic.pdb
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/obj/Debug/net7.0/CSharpBasic.csproj.AssemblyReference.cache
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/obj/Debug/net7.0/CSharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/obj/Debug/net7.0/CSharpBasic.AssemblyInfoInputs.cache
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/obj/Debug/net7.0/CSharpBasic.AssemblyInfo.cs
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/obj/Debug/net7.0/CSharpBasic.csproj.CoreCompileInputs.cache
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/obj/Debug/net7.0/CSharpBasic.dll
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/obj/Debug/net7.0/refint/CSharpBasic.dll
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/obj/Debug/net7.0/CSharpBasic.pdb
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/obj/Debug/net7.0/CSharpBasic.genruntimeconfig.cache
+/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/obj/Debug/net7.0/ref/CSharpBasic.dll

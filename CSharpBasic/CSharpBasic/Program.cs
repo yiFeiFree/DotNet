@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using CSharpBasic;
+
+// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 
 /*
@@ -30,7 +32,6 @@ person.Eat();
 System.Console.WriteLine();
 Person person2=person;
 System.Console.WriteLine(object.ReferenceEquals(person,person2));
-*/
 
 Cat cat=new Cat();
 cat.Name="kity";
@@ -44,4 +45,16 @@ cat2.Roar();
 
 Animal animal=new Cat("he",3);
 animal.Roar();
+
+IPay ipay = new ZhiFuBaoPay();
+ipay.Pay();
+
+*/
+
+
+FanXing fanXing =new FanXing();
+Console.WriteLine( fanXing.Max(1.1, 2.2));
+fanXing.TestList();
+MyEnum en = new MyEnum();
+en.Test();
 

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0eNeXk/YiAHQ/Gc7dtWASp6Ytfx5J8I+ze5HjEf7T3b4MoStraqJZSdsd5kuPK+2qmJqr3C18WLBysMM9MPLug==",
+  "dgSpecHash": "JR96y8h51QnpeUefP6gIHOeGpvBEwpYRhyn2WuVr3E5+CFX83k7HKzEsoXYrJAtl30FwUT50jDfg/l/85n4kbQ==",
   "success": true,
-  "projectFilePath": "/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/CSharpBasic.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\75759\\Desktop\\Github\\DotNet\\CSharpBasic\\CSharpBasic\\CSharpBasic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\75759\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\75759\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\75759\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\7.0.14\\microsoft.netcore.app.host.win-arm64.7.0.14.nupkg.sha512",
+    "C:\\Users\\75759\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

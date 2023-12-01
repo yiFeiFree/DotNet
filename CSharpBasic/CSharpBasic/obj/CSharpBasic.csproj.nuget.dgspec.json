@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/CSharpBasic.csproj": {}
+    "C:\\Users\\75759\\Desktop\\Github\\DotNet\\CSharpBasic\\CSharpBasic\\CSharpBasic.csproj": {}
   },
   "projects": {
-    "/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/CSharpBasic.csproj": {
+    "C:\\Users\\75759\\Desktop\\Github\\DotNet\\CSharpBasic\\CSharpBasic\\CSharpBasic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/CSharpBasic.csproj",
+        "projectUniqueName": "C:\\Users\\75759\\Desktop\\Github\\DotNet\\CSharpBasic\\CSharpBasic\\CSharpBasic.csproj",
         "projectName": "CSharpBasic",
-        "projectPath": "/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/CSharpBasic.csproj",
-        "packagesPath": "/Users/liuyifei/.nuget/packages/",
-        "outputPath": "/Users/liuyifei/Desktop/Github/DotNet/CSharpBasic/CSharpBasic/obj/",
+        "projectPath": "C:\\Users\\75759\\Desktop\\Github\\DotNet\\CSharpBasic\\CSharpBasic\\CSharpBasic.csproj",
+        "packagesPath": "C:\\Users\\75759\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\75759\\Desktop\\Github\\DotNet\\CSharpBasic\\CSharpBasic\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/liuyifei/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\75759\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,12 +53,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-arm64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
